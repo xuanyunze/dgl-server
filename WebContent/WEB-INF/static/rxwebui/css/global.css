@@ -1,0 +1,88 @@
+#divmain{
+	border:none;width:100%;height:100%;margin:0;padding:0;
+}
+#divtop{
+	border:none;background:url('../themes/default/images/topbg.png') repeat-x;;width:100%;height:60px;margin:0;padding:0;
+}
+#divmiddle{
+	position:absolute;top:60px;left:0;bottom:26px;right:0;overflow-y:hidden;magrin:0;padding:0;background:#FAFAFF;
+}
+#divbottom{
+	border:none;background:#BBB;width:100%;height:20px;position:absolute;left;0;bottom:0;margin:0;padding:0; 
+}
+#divleft{
+	border:none;width:200px;height:100%;top:55px;margin:0;padding:0;float:left;
+}
+#divlefttree{
+	border:none;background:#F8F8F8;width:185px;height:100%;margin:0;padding:0;float:left;display:"";background:url('../themes/default/images/sidebar.png') left repeat-y;
+}
+#divright{
+	border:1px solid #CCC;margin-top:2px;margin-right:2px;overflow-y:hidden;position:absolute;top:0;left:200px;;right:0;bottom:3px;overflow-x:hidden;
+}
+#divleftbutton{
+	border:none;background:#CCC;width:10px;height:100%;margin:0;padding:0;float:right;
+}
+
+#divrighttab{
+	border:none;background:#E8E8E8;width:100%;height:25px;margin:0;padding:0;border-bottom:1px dashed #DDD;
+}
+#divrightwindow{
+	width:100%;margin:0;padding:2px;border:none;font-size:13px;
+}
+.divrightwin{
+	margin:0;padding:0;border:none;position:absolute;left:0;top:26px;bottom:0;right:0;
+}
+#searchtable{
+	border:none;
+}
+#pagetabletop{
+	border:none;
+}
+#titletable{
+	border:none;margin:0;padding:0;
+}
+#titletable td{
+	border:none;background:#CCC;margin:0;padding:0;
+}
+#maintable{
+	border:none;width:100%;
+}
+#maintable .mtablestr{
+	background:#FFF;
+}
+#maintable .mtabledtr{
+	background:#EEE;
+}
+#maintable .mtableordertd{
+	width:2%;text-align:center;
+}
+#maintable .mtablechecktd{
+	width:3%;text-align:center;
+}
+#maintable .mtablebuttontd{
+	width:15%;text-align:center;
+}
+#maintable .tablevaluetd{
+	
+}
+.selcheckbox{
+	
+}
+#pagettablebotton{
+	border:none;
+}
+.pagenum{
+	border:solid 1px #D0D0D0;background:#F8F8F8;text-align:center;height:16px;line-height:16px;cursor:pointer;
+}
+.batopbutton{
+	
+}
+.opbutton{
+	
+}
+.selbutton{
+	cursor:pointer;
+}
+.searchbutton{
+	
+}

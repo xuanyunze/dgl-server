@@ -1,0 +1,92 @@
+#divlogout a{	
+	color:#FFF;
+	text-decoration:none;
+	text-shadow:1px 1px rgba(0,0,0,.2);
+}
+#divlogout a:link{
+	color:#FFF;
+}
+#divlogout a:hover{
+	color:#FFF;
+	border-bottom:1px solid #fff;
+}
+#nav_main{
+	display:table-cell;
+	width:1000px; 
+	height:46px;
+	vertical-align:bottom;
+	text-align:left;
+	padding-left:30px;
+	margin:10px auto;
+	font-size:0; 
+}
+#nav_main .nav_main_item {
+	display:inline-block;
+	font-size:13px;
+	text-align:center;
+	background:url(../themes/default/images/nav_li.png) 0 -3px no-repeat;
+	padding:0 16px;
+	line-height:24px;
+	position: relative;
+}
+#nav_main .nav_main_item:first-child {
+	background-image:none;	
+}
+#nav_main a{	
+	color:#FFF;
+	text-decoration:none;
+	text-shadow:1px 1px rgba(0,0,0,.2);
+}
+#nav_main a:link{
+	color:#FFF;
+}
+#nav_main a:hover{
+	color:#FFF;
+	border-bottom:1px solid #fff;
+}
+#divrighttab,#divbottom,.bannertop { 
+	background:url(../themes/default/images/bannertopbg.png) repeat-x; 
+	height:24px; 
+	line-height:24px; 
+	font-weight: normal; 
+	font-size:12px; 
+	overflow:hidden; 
+	width:100%;
+}
+.sidebar-toggle{
+	position:absolute;
+	overflow:hidden; 
+	top:50%;
+	margin-top:-22px; 
+	left:185px;
+	z-index:1; 
+	display:block; 
+	width:9px; 
+	height:44px;
+}
+.toggle-hide{
+	left:0px;
+	background: url(../themes/default/images/sidebar_buttom2.png) no-repeat;
+}
+.toggle-show{	
+	left:185px;
+	background: url(../themes/default/images/sidebar_buttom.png) no-repeat;
+}
+#leftmsgbox{width:175px;border:1px #a4b2c0 solid;
+	position:absolute;
+	bottom:30px;
+	background:#eaf4fc ; 
+	margin:3px 0 0 3px;
+}
+#leftmsgbox h2{font-size:12px; 
+	font-weight:normal; height:30px; 
+	background:#d0e2f4; border-top:1px #FFF solid; 
+	line-height:30px; overflow:hidden; text-indent:14px;}
+#msg_push_content{
+	font-size:12px;
+}
+#msg_push_content p{ background: url(../themes/default/images/icon_06.png) 8px 16px no-repeat;
+ 	padding:13px 10px 10px 30px; line-height:16px; 
+ 	border-bottom:1px #e1e2e2 solid; color:#6a6a6a
+ }
+#msg_push_content em{ display:block;color:#333;}

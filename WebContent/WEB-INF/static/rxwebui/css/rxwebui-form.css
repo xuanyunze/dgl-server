@@ -1,0 +1,25 @@
+body{ background:#FCFCFE; }
+.input-disable{ background:#F6F6F6; }
+
+.formtable{
+ 	border:none;margin:0;font-size;13px;font-family:微软雅黒；
+}
+.formtable td{ font-size:13px;border-bottom:2px dotted #EEDDDD; height:30px;}
+.formtable tdTitle{
+}
+.formtable inputx{border-radius:2px 2px 2px 2px;box-shadow:0 0 1px 0 rgba(0,0,0,0.1) inset;border:1px solid #BFBFBF;text-indent:0.2em;height:20px;line-height:20px;width:260px;}
+.formtable tdLabel{
+	text-align:right;padding-right:3px;
+}
+#btnarea{
+	position:fixed;bottom:20px;right:0px;clear:both;text-align:center;border:1px solid #ccc;border-right:none;padding:0px 15px 5px 15px;background:#fefefe
+}
+div .btncommon{
+	width:60px;height:16px;line-height:16px;font-size:12px;padding:3px;border:1px solid #888;cursor:pointer;margin-top:5px;
+}
+div .btncommon:hover{
+	width:60px;height:16px;line-height:16px;font-size:12px;padding:3px;border:1px solid #888;cursor:pointer;margin-top:5px;background:#f0f0ff
+}
+#btnareatop{
+	position:absolute;top:60px;right:0px;text-align:center;border:1px solid #ccc;border-right:none;padding:0px 15px 5px 15px;background:#fefefe
+}

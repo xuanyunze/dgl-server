@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE form [
+    <!ELEMENT tr (author, title, content)>
+    <!ELEMENT td (#PCDATA)>
+    <!ELEMENT title (#PCDATA)>
+    <!ELEMENT content (#PCDATA)>
+]>
+<root>
+	
+</root>
